@@ -101,6 +101,11 @@ export default function App() {
              <span className="text-3xl font-sora font-bold text-white relative z-10">FN</span>
           </div>
           
+          <div className="hero-element inline-flex items-center gap-2 bg-[#18181B] px-4 py-2 rounded-full border border-[#7B61FF]/20 mb-6 shadow-[0_0_15px_rgba(123,97,255,0.1)]">
+            <div className="w-2 h-2 rounded-full bg-green-500 shadow-[0_0_8px_rgba(34,197,94,0.8)] animate-pulse"></div>
+            <span className="font-fira text-xs text-white/90">Disponible pour de nouveaux projets</span>
+          </div>
+          
           <h1 className="hero-element text-5xl md:text-7xl font-sora font-bold text-white mb-4 tracking-tight drop-shadow-2xl">
             Fatou
           </h1>
